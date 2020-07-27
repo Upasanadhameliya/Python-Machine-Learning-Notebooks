@@ -1,4 +1,4 @@
-# Python-Machine-Learning-Libraries
+# Python-Machine-Learning-Notebooks
 Includes machine learning jupyter notebook having numpy pandas seaborn matplotlib sklearn
 
 #### Seaborn-Matplotlib
